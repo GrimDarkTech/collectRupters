@@ -5,6 +5,9 @@ ____
 ## About 
 Have you always wanted to lead your own personal swarm of Rupters?
 Now you can do it!
+
+![ezgif-5-75999dfa8e](https://user-images.githubusercontent.com/75982005/164552863-1d1df8b3-7c8a-4cb0-85ba-c681a49f6231.gif)
+
 ## Electronic swarm
 Our game based on HTML, CSS and Java will allow you to test yourself as the leader of a swarm of Rupters. 
 Collect the lost sleeping companions by replenishing your swarm. ![](https://github.com/kms0207/collectRupters/blob/main/images/food.gif)
