@@ -3,6 +3,7 @@
 }
 body{
     margin: 100px;
+    background-color: #181818;
 }
 .field{
     width: 500px;
@@ -10,7 +11,7 @@ body{
     margin: auto auto;
     display:  flex;
     flex-wrap: wrap;
-    background-color: #3b3da1;
+    background-color: #111111;
 }
 .excel{
     width: 50px;
