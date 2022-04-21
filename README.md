@@ -1,4 +1,4 @@
-# Collect Rupters the game ![Alt-текст](https://github.com/kms0207/collectRupters/blob/main/images/rupter.gif)
+# Collect Rupters the game ![](https://github.com/kms0207/collectRupters/blob/main/images/rupter.gif)
 
 ____
 
