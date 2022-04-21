@@ -18,4 +18,5 @@ The collective mind of your swarm is growing stronger, you need to collect more 
 Don't make Rupters sad!\
 ![](https://github.com/kms0207/collectRupters/blob/main/images/bodyDead.gif)![](https://github.com/kms0207/collectRupters/blob/main/images/bodyDead.gif)![](https://github.com/kms0207/collectRupters/blob/main/images/bodyDead.gif)![](https://github.com/kms0207/collectRupters/blob/main/images/dead.gif)
 ## How to play?
-[Just click this link](https://kms0207.github.io/collectRupters/)
+![](https://github.com/kms0207/collectRupters/blob/main/images/body.gif)
+[Just click this link to start](https://kms0207.github.io/collectRupters/)![](https://github.com/kms0207/collectRupters/blob/main/images/body.gif)
