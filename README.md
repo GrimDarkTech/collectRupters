@@ -20,4 +20,6 @@ Don't make Rupters sad!\
 ## How to play?
 ![](https://github.com/kms0207/collectRupters/blob/main/images/body.gif)
 [Just click this link to start](https://kms0207.github.io/collectRupters/)![](https://github.com/kms0207/collectRupters/blob/main/images/body.gif)
+\
+\
 ![ezgif-5-21d98a95c0](https://user-images.githubusercontent.com/75982005/164554761-491c2377-d16f-4aa4-a0e2-8a3d95ba5876.gif)
