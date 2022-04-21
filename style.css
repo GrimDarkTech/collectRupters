@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 100px;
+}
+.field{
+    width: 500px;
+    height: 500px;
+    margin: auto auto;
+    display:  flex;
+    flex-wrap: wrap;
+    background-color: #3b3da1;
+}
+.excel{
+    width: 50px;
+    height: 50px;
+    padding: 2 px;
+    background-size: cover;
+    
+}
+.snakeBody{
+    background: url(./images/body.gif);
+    background-size: cover;
+    border-radius: 80%;
+    -webkit-border-radius: 80%;
+    -moz-border-radius: 80%;
+    -ms-border-radius: 80%;
+    -o-border-radius: 80%;
+}
+.head{
+    background: url(./images/rupter.gif);
+    background-size: cover;
+}
+.food{
+    background: url(./images/food.gif);
+    background-size: cover;
+}
