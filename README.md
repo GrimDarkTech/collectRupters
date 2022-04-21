@@ -16,6 +16,6 @@ Collect the lost sleeping companions by replenishing your swarm. ![](https://git
 ## What is next?
 The collective mind of your swarm is growing stronger, you need to collect more Rupters to capture this world!\
 Don't make Rupters sad!
-![]https://github.com/kms0207/collectRupters/blob/main/images/bodyDead.gif
+![](https://github.com/kms0207/collectRupters/blob/main/images/bodyDead.gif)
 ## How to play?
 [Just click this link](https://kms0207.github.io/collectRupters/)
